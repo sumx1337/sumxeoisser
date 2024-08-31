@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.dma-cheats.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1725075565|tTuTqzqxLRI0
-www.dma-cheats.com	TRUE	/	FALSE	1999999999	SameSite	None
-www.dma-cheats.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_84_g
-
